@@ -18,10 +18,10 @@ along with ptouch-driver; if not, write to the Free Software
 Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301
 USA
 -->
-<printer id="printer/Brother-PT-P710BT">
+<printer id="printer/Brother-PT-D410">
   <make>Brother</make>
-  <model>PT-P710BT</model>
-  <pcmodel>BRP710BT</pcmodel>
+  <model>PT-D410</model>
+  <pcmodel>D410</pcmodel>
   <mechanism>
     <thermal/>
     <!--not "color"-->
@@ -40,9 +40,9 @@ USA
     <general>
       <ieee1284>MFG:Brother;CMD:PT-CBP;MDL:PT-P710BT;CLS:PRINTER;</ieee1284>
       <commandset>PT-CBP</commandset>
-      <description>Brother PT-P710BT</description>
+      <description>Brother PT-D410</description>
       <manufacturer>Brother</manufacturer>
-      <model>PT-P710BT</model>
+      <model>PT-D410</model>
     </general>
   </autodetect>
   <functionality>D</functionality>
@@ -55,7 +55,7 @@ USA
     Tape width 3.5mm to 24mm.
     Prints 20mm per second.
     Automatic cutter.
-    Print via Bluetooth or USB.
+    Print via USB.
     </en>
   </comments>
   <select>
